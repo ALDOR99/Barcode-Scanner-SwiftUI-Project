@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E0B5A04F2B62698800E6F557 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E0B5A04E2B62698800E6F557 /* Info.plist */; };
 		E0FE6C432B5884CB00F43401 /* Barcode_Scanner_SwiftUI_ProjectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0FE6C422B5884CB00F43401 /* Barcode_Scanner_SwiftUI_ProjectApp.swift */; };
 		E0FE6C452B5884CB00F43401 /* BarcodeScannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0FE6C442B5884CB00F43401 /* BarcodeScannerView.swift */; };
 		E0FE6C472B5884CD00F43401 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E0FE6C462B5884CD00F43401 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E0B5A04E2B62698800E6F557 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E0FE6C3F2B5884CB00F43401 /* Barcode Scanner SwiftUI Project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Barcode Scanner SwiftUI Project.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0FE6C422B5884CB00F43401 /* Barcode_Scanner_SwiftUI_ProjectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Barcode_Scanner_SwiftUI_ProjectApp.swift; sourceTree = "<group>"; };
 		E0FE6C442B5884CB00F43401 /* BarcodeScannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BarcodeScannerView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				E0FE6C442B5884CB00F43401 /* BarcodeScannerView.swift */,
 				E0FE6C422B5884CB00F43401 /* Barcode_Scanner_SwiftUI_ProjectApp.swift */,
+				E0B5A04E2B62698800E6F557 /* Info.plist */,
 				E0FE6C462B5884CD00F43401 /* Assets.xcassets */,
 				E0FE6C482B5884CD00F43401 /* Preview Content */,
 			);
@@ -127,6 +130,7 @@
 			files = (
 				E0FE6C4A2B5884CD00F43401 /* Preview Assets.xcassets in Resources */,
 				E0FE6C472B5884CD00F43401 /* Assets.xcassets in Resources */,
+				E0B5A04F2B62698800E6F557 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
