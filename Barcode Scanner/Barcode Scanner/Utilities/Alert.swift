@@ -2,7 +2,7 @@
 //  Alert.swift
 //  BarcodeScanner
 //
-//  Created by Sean Allen on 11/5/20.
+//  Created by Ali Durna on 11/5/20.
 //
 
 import SwiftUI
